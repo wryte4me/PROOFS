@@ -6,4 +6,8 @@ Posted here are the screenshots of google meet video conference consultation mee
 
 ### Metro Manila
 
+---
+
 ![Title Consultation](/IMAGES/COURSE/COMPUTERENGINEERING/COMPUTERENGINEERING1.png)
+
+---
