@@ -1,7 +1,3 @@
-Here’s your README file with a clickable table of contents added for easy navigation:
-
----
-
 # SXJ RnD Consultation Services Proofs
 
 ## Table of Contents
@@ -61,5 +57,3 @@ I check my messenger inbox every **hour** and typically reply immediately upon r
 ![Title Consultation](/IMAGES/COURSE/COMPUTERENGINEERING/COMPUTERENGINEERING1.png)
 
 ---
-
-Feel free to let me know if there are any other changes you’d like to make!
