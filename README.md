@@ -17,7 +17,7 @@ Posted here are the screenshots of Google Meet video conference consultation mee
 ---
 
 **How much is your title consultation package?**  
-The package has a **one-time service fee of 2000 pesos**. This allows you to free your mind from the stress of brainstorming for your research title and focus your energy on other academic tasks.
+The package has a **one-time service fee of 3000 pesos**. This allows you to free your mind from the stress of brainstorming for your research title and focus your energy on other academic tasks.
 
 ---
 
